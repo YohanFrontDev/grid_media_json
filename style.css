@@ -1,0 +1,11 @@
+.close, .left , .right {
+    color: aquamarine;
+    border: none;
+    background-color: white;
+}
+
+img, video{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
